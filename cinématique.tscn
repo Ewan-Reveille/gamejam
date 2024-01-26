@@ -1,0 +1,7 @@
+[gd_scene load_steps=2 format=3 uid="uid://phd7ka8n1gq"]
+
+[ext_resource type="Script" path="res://Cinématique.gd" id="1_ewpgg"]
+
+[node name="Cinématique" type="Node2D"]
+z_index = 50
+script = ExtResource("1_ewpgg")
